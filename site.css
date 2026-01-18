@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main_elements {
+    padding-left: 70px;
+}
+hr {
+    width: 500px;
+    height: 4px;
+    background-color: black;
+    border-radius: 8px;
+    margin-left: 0;
+    border: none;
+}
+h3 {
+    color: green;
+}
+h2 {
+    color: blue;
+    font-size: 21px;
+}
